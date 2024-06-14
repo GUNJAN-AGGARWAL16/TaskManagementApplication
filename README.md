@@ -1,9 +1,10 @@
 # Task Management Application
 
-### Mobile Preview
-
-
 ### Desktop Preview
+![image](https://github.com/GUNJAN-AGGARWAL16/TaskManagementApplication/assets/76522256/2c44755b-e505-4a26-a106-2751404b99b3)
+
+### Mobile Preview
+![image](https://github.com/GUNJAN-AGGARWAL16/TaskManagementApplication/assets/76522256/922dc717-0454-4877-900f-635d4ab08b8c)
 
 
 ## Description
@@ -49,7 +50,7 @@ npm run dev
 
 ## Deployment Link
 
-
+https://github.com/GUNJAN-AGGARWAL16/TaskManagementApplication
 
 ## Usage
 
